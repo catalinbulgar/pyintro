@@ -1,1 +1,1 @@
-# pyintro
+# curs python development
