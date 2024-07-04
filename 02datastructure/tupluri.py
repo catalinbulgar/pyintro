@@ -1,0 +1,7 @@
+# tuplul_meu = ()
+# print(type(tuplul_meu))
+# tuplul_meu = (1,)
+# print(type(tuplul_meu))
+tuplul_1 = (1, 2, 3)
+tuplul_2 = (4, 5, 6)
+print(tuplul_1 + tuplul_2)
