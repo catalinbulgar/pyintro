@@ -64,3 +64,4 @@ while True:
         elif "_" not in tabla:
             print("Jocul incheiat in remiza")
             exit()
+            
