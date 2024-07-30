@@ -1,7 +1,7 @@
 cnp = input("Introduceti numarul CNP: ")
 # verificam daca utilizatorul a introdus un numar de 13 cifre
 if len(cnp) == 13 and cnp.isdigit():
-    # verificam daca cifra sexului/secoluluio corespunde intervalului 1-9
+    # verificam daca cifra sexului/secolului corespunde intervalului 1-9
     sex = int(cnp[0])
     if sex == 0:
         print("Cifra sexului/secolului nu corespunde, CNP invalid")
